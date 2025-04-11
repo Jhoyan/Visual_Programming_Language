@@ -1,0 +1,41 @@
+C:\Users\2024102060010\source\repos\Aula02\bin\Debug\Aula02.exe.config
+C:\Users\2024102060010\source\repos\Aula02\bin\Debug\Aula02.exe
+C:\Users\2024102060010\source\repos\Aula02\bin\Debug\Aula02.pdb
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.csproj.AssemblyReference.cache
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.Form1.resources
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.Formularios.FormAlertas.resources
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.Properties.Resources.resources
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.csproj.GenerateResource.cache
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.exe
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.pdb
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.Formularios.FormExemploAlerta.resources
+C:\Users\2024102060010\source\repos\Aula02\obj\Debug\Aula02.Formularios.FormExemploAlteracaoRotulo.resources
+C:\Users\2024102060010\Desktop\Aula02\bin\Debug\Aula02.exe.config
+C:\Users\2024102060010\Desktop\Aula02\bin\Debug\Aula02.exe
+C:\Users\2024102060010\Desktop\Aula02\bin\Debug\Aula02.pdb
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.csproj.AssemblyReference.cache
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Form1.resources
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Formularios.FormAlertas.resources
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Formularios.FormExemploAlerta.resources
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Formularios.FormExemploAlteracaoRotulo.resources
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Properties.Resources.resources
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.csproj.GenerateResource.cache
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.exe
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.pdb
+C:\Users\2024102060010\Desktop\Aula02\obj\Debug\Aula02.Formularios.FormExemploComboBox.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\bin\Debug\Aula02.exe.config
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\bin\Debug\Aula02.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\bin\Debug\Aula02.pdb
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Form1.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Formularios.FormAlertas.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Formularios.FormExemploAlerta.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Formularios.FormExemploAlteracaoRotulo.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Formularios.FormExemploComboBox.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.Properties.Resources.resources
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.exe
+C:\Users\User\Desktop\Documentos área de trabalho\Faculdade Jhoyan\2º Período\Linguagem de Programação Visual\SecondClass\obj\Debug\Aula02.pdb
