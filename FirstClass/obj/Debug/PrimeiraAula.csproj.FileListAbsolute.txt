@@ -1,0 +1,10 @@
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.Properties.Resources.resources
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.GenerateResource.cache
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
+C:\Users\2024102060010\Desktop\Projetos Jhoyan\PrimeiraAula\obj\Debug\PrimeiraAula.Form1.resources
